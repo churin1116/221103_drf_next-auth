@@ -8,7 +8,7 @@ note : https://note.com/churin_1116/n/n274cde46da85
 
 1. Google OAuth の登録
 https://qiita.com/cokemaniaIIDX/items/bdb9a00bef3c6c2365f5
-と同じ。最後のredirect_urlだけ注意。http://127...にすればOK。
+と同じ。最後のredirect_urlだけ異なるので注意。http://127.0.0.1:3000/api/auth/callback/google
 ![image](https://user-images.githubusercontent.com/90027034/199681028-a8ccdfa3-4727-4f04-845c-0b21e9f92378.png)
 
 
